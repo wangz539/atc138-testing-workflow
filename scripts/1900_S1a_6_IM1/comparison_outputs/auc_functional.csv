@@ -1,0 +1,13 @@
+tag,system,auc_py,auc_mat,pct_diff,pass_1pct
+Functional,elevators,15.542700000000002,16.134700000000002,3.66911067450898,False
+Functional,exterior,9.0668,9.0518,0.16571289688239432,True
+Functional,roof,0.0,0.0,nan,True
+Functional,interior,13.4553,13.5692,0.8394009963741488,True
+Functional,electrical,14.0428,14.149700000000001,0.7554930493226099,True
+Functional,flooding,56.5737,56.2312,0.6090924611247869,True
+Functional,water_potable,8.907,9.2044,3.2310634044587334,False
+Functional,water_sanitary,17.377999999999997,17.592299999999998,1.218146575490422,False
+Functional,hvac_ventilation,68.994,69.0192,0.03651157938660273,True
+Functional,hvac_heating,68.994,69.0192,0.03651157938660273,True
+Functional,hvac_cooling,70.2253,70.3368,0.1585229922316517,True
+Functional,hvac_exhaust,67.622,67.60059999999999,0.03165652375868569,True
